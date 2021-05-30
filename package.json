@@ -1,14 +1,14 @@
 {
   "name": "@froyoswap-libs/sdk",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🛠 An SDK for building applications on top of froyoswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/froyoswap/froyo-swap-sdk.git",
+  "repository": "git+https://github.com/froyoswap/froyo-swap-sdk.git",
   "keywords": [
     "froyoswap",
     "ethereum"
@@ -56,5 +56,14 @@
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/froyoswap/froyo-swap-sdk/issues"
+  },
+  "homepage": "https://github.com/froyoswap/froyo-swap-sdk#readme",
+  "directories": {
+    "test": "test"
+  },
+  "author": "Froyo-Swap <froyoswap@gmail.com>",
+  "private": null
 }
