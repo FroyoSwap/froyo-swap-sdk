@@ -1058,8 +1058,8 @@
 
 "@froyoswap-libs/froyo-swap-core@^0.1.0":
   version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@froyoswap-libs/froyo-swap-core/-/froyo-swap-core-0.1.0.tgz#f9d7025a9412452d0e14683147b8472156e6aa1f"
-  integrity "sha1-p/HsAVOfOkKzmblR1vw3bRnTJPc= sha512-OTnJFqFR0s3RHYDJFx5/V+pU5wmsguafILPztDVS3i8wR9d2At/EoIAL0uotWsXjFY541iDPbmJRJ11Mb5d88g=="
+  resolved "https://registry.yarnpkg.com/@froyoswap-libs/froyo-swap-core/-/froyo-swap-core-0.1.0.tgz#a7f1ec01539f3a42b399b951d6fc376d19d324f7"
+  integrity sha512-OTnJFqFR0s3RHYDJFx5/V+pU5wmsguafILPztDVS3i8wR9d2At/EoIAL0uotWsXjFY541iDPbmJRJ11Mb5d88g==
   dependencies:
     truffle "^5.1.41"
     truffle-flattener "^1.4.4"
