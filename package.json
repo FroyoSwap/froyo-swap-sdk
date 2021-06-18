@@ -23,7 +23,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@froyoswap-libs/froyo-swap-core": "^0.1.0",
+    "@froyoswap-libs/froyo-swap-core": "^0.1.1",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",

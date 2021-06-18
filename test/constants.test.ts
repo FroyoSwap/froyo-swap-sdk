@@ -14,7 +14,7 @@ describe('constants', () => {
     // })
     //TODO: Replace with real FroyoPair.json
     it('matches computed bytecode hash', () => {
-      expect(INIT_CODE_HASH).toEqual('0xd0d4c4cd0848c93cb4fd1f498d7013ee6bfb25783ea21593d5834f5d250ece66')
+      expect(INIT_CODE_HASH).toEqual('0x3c700d5290ca2f5e4dd59d50bcf92e5599e823dc04c6c8e8c6baf539b980b05b')
     })
   })
 })
