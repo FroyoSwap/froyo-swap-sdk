@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "git+https://github.com/froyoswap/froyo-swap-sdk.git",
+  "repository": "https://github.com/froyoswap/froyo-swap-sdk.git",
   "keywords": [
     "froyoswap",
     "ethereum"
@@ -23,13 +23,14 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@froyoswap-libs/froyo-swap-core": "^0.1.1",
+    "@froyoswap-libs/froyo-swap-core": "^0.1.0",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3",
-    "toformat": "^2.0.0"
+    "toformat": "^2.0.0",
+    "user": "^0.0.0"
   },
   "peerDependencies": {
     "@ethersproject/address": "^5.0.0-beta",
@@ -56,14 +57,5 @@
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
-  },
-  "bugs": {
-    "url": "https://github.com/froyoswap/froyo-swap-sdk/issues"
-  },
-  "homepage": "https://github.com/froyoswap/froyo-swap-sdk#readme",
-  "directories": {
-    "test": "test"
-  },
-  "author": "Froyo-Swap <froyoswap@gmail.com>",
-  "private": null
+  }
 }
